@@ -52,7 +52,9 @@
       }
     ],
     "uniqCompNum": 32,
-    "versionPublish": "4.9.7"
+    "versionPublish": "4.9.7",
+    "favicon": "@PROJECT_PATH@/assets/images/j-128x128-1.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
