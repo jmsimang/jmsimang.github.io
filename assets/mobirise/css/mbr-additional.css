@@ -1742,7 +1742,7 @@ body {
   color: #efefef;
 }
 .cid-rpCXCSalYF H1 {
-  color: #222222;
+  color: #0f7699;
 }
 .cid-rpCXCSalYF .mbr-text,
 .cid-rpCXCSalYF .mbr-section-btn I {
@@ -1939,16 +1939,16 @@ body {
   background: #465052;
 }
 .cid-rpDnebJidd .progress1 .progressbar-number:before {
-  content: '96';
+  content: '83';
 }
 .cid-rpDnebJidd .progress2 .progressbar-number:before {
-  content: '92';
+  content: '85';
 }
 .cid-rpDnebJidd .progress3 .progressbar-number:before {
-  content: '84';
+  content: '75';
 }
 .cid-rpDnebJidd .progress4 .progressbar-number:before {
-  content: '75';
+  content: '80';
 }
 .cid-rpDnebJidd .progress-primary {
   background: rgba(206, 206, 206, 0.4);
