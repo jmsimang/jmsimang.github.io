@@ -9,40 +9,41 @@
   vertical-align: middle;
   text-align: center;
   font-size: 30px;
-  
-  .social {
-    padding-left: 0px;
-  }
-  
-  li {
-    display: inline-block;
-  }
-  
-  li a {
-    color: rgba(256, 256, 256, 0.6);
-    border-radius: 6px;
-    list-style-type: none;
-    display: inline-block;
-    width: 100px;
-    height: 100px;
-    line-height: 100px;
-    padding: 1%;
-    border: 1px solid rgba(256, 256, 256, 0.6);
-    cursor: pointer;
-    margin-left: 10px;
-    margin-bottom: 20px;
-    transition: ease .3s;
-    &:hover {
-      color: rgba(256, 256, 256, 1);
-      border: 1px solid rgba(256, 256, 256, 1);
-    }
-  }
 }
 
-.social:hover > li {
+#social-bar .social {
+  padding-left: 0px;
+}
+
+#social-bar li {
+  display: inline-block;
+}
+
+#social-bar li a {
+  color: rgba(256, 256, 256, 0.6);
+  border-radius: 6px;
+  list-style-type: none;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  padding: 1%;
+  border: 1px solid rgba(256, 256, 256, 0.6);
+  cursor: pointer;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  transition: ease .3s;
+}
+
+#social-bar li a:hover {
+  color: rgba(256, 256, 256, 1);
+  border: 1px solid rgba(256, 256, 256, 1);
+}
+
+#social-bar .social:hover > li {
   opacity: 0.5;
 }
 
-.social:hover > li:hover {
+#social-bar .social:hover > li:hover {
   opacity: 1;
 }
