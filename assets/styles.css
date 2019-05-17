@@ -15,8 +15,10 @@
 }
 
 .social {
-/*   padding-left: 0px; */
+  padding-left: 0px;
+  padding-top: 20px;
 }
+
 .social li {
   display: inline-block;
 }
