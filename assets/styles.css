@@ -1,11 +1,11 @@
 .fab {
-/*   padding: 1.5rem; */
+  padding: 1.5rem;
   font-size: 1.5rem;
   width: 2.3rem;
-/*   text-align: center; */
-  text-decoration: none;
-/*   margin: 2.3rem; */
-/*   border-radius: 50%; */
+  text-align: center;
+/*   text-decoration: none; */
+  margin: 2.3rem;
+  border-radius: 50%;
 }
 
 .fab:hover {
