@@ -1,7 +1,7 @@
 .center {
   display: table;
   width: 100%;
-  height: 10vh;
+  height: 20vh;
 }
 
 #social-test {
@@ -20,23 +20,23 @@
 
 .social li a {
   color: rgba(156, 156, 156, 0.8);
-  border-radius: 6px;
+/*   border-radius: 6px; */
   list-style-type: none;
   display: inline-block;
   width: 100px;
   height: 100px;
-  line-height: 100px;
+/*   line-height: 100px; */
   padding: 1%;
-  border: 1px solid rgba(156, 156, 156, 0.8);
+/*   border: 1px solid rgba(156, 156, 156, 0.8); */
   cursor: pointer;
-  margin-left: 10px;
-  margin-bottom: 20px;
+/*   margin-left: 10px; */
+  margin: 20px;
   transition: ease .3s;
 }
 
 .social > a:hover {
       color: rgba(0, 0, 0, 1);
-      border: 1px solid rgba(0, 0, 0, 1);
+/*       border: 1px solid rgba(0, 0, 0, 1); */
   }
 
 .social:hover > li {
