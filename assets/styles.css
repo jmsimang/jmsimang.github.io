@@ -11,15 +11,15 @@
   font-size: 30px;
 }
 
-#social-bar .social {
+.social {
   padding-left: 0px;
 }
 
-#social-bar li {
+.social li {
   display: inline-block;
 }
 
-#social-bar li a {
+.social li a {
   color: rgba(256, 256, 256, 0.6);
   border-radius: 6px;
   list-style-type: none;
@@ -35,15 +35,15 @@
   transition: ease .3s;
 }
 
-#social-bar li a:hover {
+.social li a:hover {
   color: rgba(256, 256, 256, 1);
   border: 1px solid rgba(256, 256, 256, 1);
 }
 
-#social-bar .social:hover > li {
+.social:hover > li {
   opacity: 0.5;
 }
 
-#social-bar .social:hover > li:hover {
+.social:hover > li:hover {
   opacity: 1;
 }
