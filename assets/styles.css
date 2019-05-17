@@ -1,4 +1,6 @@
 /* This is a test script for social icons */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400);
+
 .center {
   display: table;
   width: 100%;
@@ -43,6 +45,12 @@
 
 .social:hover > li:hover {
   opacity: 1;
+}
+
+.credits, .credits a {
+  font-size: 20px;
+  font-family: 'Open Sans';
+  color: rgba(256, 256, 256, 0.6);
 }
 
 /* .social-center {
