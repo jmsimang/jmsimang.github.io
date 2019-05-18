@@ -50,3 +50,9 @@
 .social:hover > li:hover {
   opacity: 1;
 }
+
+@media (min-width: 240px) and (max-width: 320px) {
+  .mbr-iconfont-btn {
+    display: none;
+  }
+}
