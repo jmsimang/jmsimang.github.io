@@ -51,8 +51,8 @@
   opacity: 1;
 }
 
-@media (min-width: 240px) and (max-width: 320px) {
-  span .mbr-iconfont {
+@media (max-width: 240px) {
+  .mbr-iconfont {
     display: none;
   }
 }
