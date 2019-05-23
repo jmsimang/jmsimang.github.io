@@ -1,16 +1,16 @@
 User-agent: AdsBot-Google
-Allow: /maps/api/js?
-Disallow: /maps/api/js/
-Disallow: /maps/api/place/js/
+Allow: https://maps.googleapis.com/maps/api/js?
+Disallow: https://maps.googleapis.com/maps/api/js/
+Disallow: https://maps.googleapis.com/maps/api/place/js/
 Disallow: /maps/api/staticmap?
 Disallow: /maps/api/streetview?
 Disallow: /maps/api/streetview/
 Disallow: /cgi-bin
 
 User-agent: *
-Allow: /maps/api/js?
-Disallow: /maps/api/js/
-Disallow: /maps/api/place/js/
+Allow: https://maps.googleapis.com/maps/api/js?
+Disallow: https://maps.googleapis.com/maps/api/js/
+Disallow: https://maps.googleapis.com/maps/api/place/js/
 Disallow: /maps/api/staticmap?
 Disallow: /maps/api/streetview?
 Disallow: /maps/api/streetview/
