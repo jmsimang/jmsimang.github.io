@@ -2,17 +2,11 @@ User-agent: AdsBot-Google
 Allow: https://maps.googleapis.com/maps/api/js?
 Disallow: https://maps.googleapis.com/maps/api/js/
 Disallow: https://maps.googleapis.com/maps/api/place/js/
-Disallow: /maps/api/staticmap?
-Disallow: /maps/api/streetview?
-Disallow: /maps/api/streetview/
-Disallow: /cgi-bin
+Disallow: https://maps.googleapis.com/maps/api/staticmap?
+Disallow: https://maps.googleapis.com/maps/api/streetview?
+Disallow: https://maps.googleapis.com/maps/api/streetview/
 
 User-agent: *
-Allow: https://maps.googleapis.com/maps/api/js?
-Disallow: https://maps.googleapis.com/maps/api/js/
-Disallow: https://maps.googleapis.com/maps/api/place/js/
-Disallow: /maps/api/staticmap?
-Disallow: /maps/api/streetview?
-Disallow: /maps/api/streetview/
 Disallow: /cgi-bin
+
 Sitemap: https://jabulanimsimango.me/sitemap.xml
