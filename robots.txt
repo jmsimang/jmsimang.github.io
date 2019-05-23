@@ -5,6 +5,7 @@ Allow: /maps/api/place/js/
 Allow: /maps/api/staticmap?
 Disallow: /maps/api/streetview?
 Disallow: /maps/api/streetview/
+Allow: /$
 Disallow: /
 Disallow: /cgi-bin
 
