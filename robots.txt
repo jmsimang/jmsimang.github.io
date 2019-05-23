@@ -1,2 +1,8 @@
+User-agent: AdsBot-Google
+Allow: /maps/api/js?
+Disallow: /cgi-bin
 
+User-agent: *
+Allow: /maps/api/js?
+Disallow: /cgi-bin
 Sitemap: https://jabulanimsimango.me/sitemap.xml
