@@ -5,8 +5,8 @@ Allow: /maps/api/place/js/
 Allow: /maps/api/staticmap?
 Disallow: /maps/api/streetview?
 Disallow: /maps/api/streetview/
-Allow: /$
-Disallow: /
+Allow: /
 Disallow: /cgi-bin
 
 Sitemap: https://jabulanimsimango.me/sitemap.xml
+Sitemap: https://www.jabulanimsimango.me/sitemap.xml
